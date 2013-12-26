@@ -1,0 +1,7 @@
+bash
+====
+
+.bash
+
+
+bash config
