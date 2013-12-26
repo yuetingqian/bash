@@ -1,0 +1,8 @@
+alias ssh51root="ssh root@192.168.201.51"
+alias ssh54root="ssh root@192.168.201.54"
+alias sshpuzzle="ssh anjuke@192.168.190.59"
+alias sshloginpd="ssh -A login-pd.corp.anjuke.com"
+alias cdpuzzle="cd ~/code/puzzle"
+alias cdgitcorp="cd ~/code/gitcorp"
+alias cdhiapi3="cd ~/code/Hiapi3.0"
+alias goagent="python goagent-2.1.2/local/proxy.py"
